@@ -23,7 +23,7 @@
  </ul>
   
   <h2>Website Link</h2>
-  <p><a href=""></a></p>
+  <p><a href="https://quote-generator-khushiwala.vercel.app/">quote-generator-khushiwala.vercel.app</a></p>
  
 
   <h2>Preview Images</h2>
